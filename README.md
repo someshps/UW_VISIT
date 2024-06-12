@@ -19,6 +19,8 @@ Repository details:
 
 
 The work resulted in a conference presentation (Abstract Accepted). 
+
+
 Nandi, A., Robinson, R., Singh, S. P., Montrowl, S., Pappas, D., Vashisth, A. (2024). Exploiting Data Science for Atmospheric Plasma Enhanced Paint Adhesion on Carbon Fiber Composites. The Composites and Advanced Materials Expo, September 2024, San Diego, CA.
 
 The project was done under the guidance of Prof. Aniruddh Vashisth and Ankush Nandi (PhD UW). 
