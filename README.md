@@ -18,7 +18,7 @@ Repository details:
 4. Final Internship Presentation: [Presentation](https://github.com/someshps/UW_VISIT/tree/main/UW%20Intern_23/Presentation)
 
 
-The work resulted in a conference presentation (Abstract Accepted). 
+The work resulted in a conference presentation. 
 
 
 Nandi, A., Robinson, R., Singh, S. P., Montrowl, S., Pappas, D., Vashisth, A. (2024). Exploiting Data Science for Atmospheric Plasma Enhanced Paint Adhesion on Carbon Fiber Composites. The Composites and Advanced Materials Expo, September 2024, San Diego, CA.
